@@ -1,0 +1,9 @@
+{
+  "firestore": {
+    "rules": "firebase use --add",
+    "indexes": "firestore.indexes.json"
+  },
+  "hosting": {
+    "public": "public"
+  }
+}
